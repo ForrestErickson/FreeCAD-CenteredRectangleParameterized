@@ -1,5 +1,5 @@
 # FreeCAD-CenteredRectangleParameterized  
-A FreeCAD Example Drawing of Centered Rectangle Parameterized for Width, Height, and Depth
+A FreeCAD Example Drawing of and Offset Centered Rectangle Parameterized for Width, Height, and Depth
 
 <a
 href="ConstrainedRectangleSolid.png"><img style="border:5px double black"
